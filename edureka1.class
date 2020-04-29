@@ -1,0 +1,5 @@
+class edureka{
+             public static void main("Stirng[] argv){
+  	     System.out.ln("this is a classfile");
+             }
+}
