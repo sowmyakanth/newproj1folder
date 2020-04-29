@@ -1,4 +1,0 @@
-this is my first class 
-and its my workout session
-:wq!
-
